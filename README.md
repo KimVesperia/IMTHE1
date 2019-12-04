@@ -1,2 +1,2 @@
 # IMTHE1
-Arduino Project with AVR C++
+Arduino Projects with AVR C++
